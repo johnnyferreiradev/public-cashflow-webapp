@@ -1,0 +1,50 @@
+{
+  "name": "cashflow-webapp",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@hookform/resolvers": "^3.3.1",
+    "@phosphor-icons/react": "^2.0.13",
+    "@radix-ui/react-label": "^2.0.2",
+    "@radix-ui/react-slot": "^1.0.2",
+    "@tanstack/react-query": "^5.15.0",
+    "@types/node": "20.6.0",
+    "@types/react": "18.2.21",
+    "@types/react-dom": "18.2.7",
+    "autoprefixer": "10.4.15",
+    "axios": "^1.6.3",
+    "clsx": "^2.0.0",
+    "crisp-sdk-web": "^1.0.21",
+    "date-fns": "^3.2.0",
+    "eslint": "8.49.0",
+    "eslint-config-next": "13.4.19",
+    "nemea-ui": "^1.0.11",
+    "next": "13.4.19",
+    "next-auth": "^4.23.1",
+    "next-themes": "^0.2.1",
+    "postcss": "8.4.29",
+    "prop-types": "^15.6.0",
+    "react": "18.2.0",
+    "react-cookie": "^6.1.1",
+    "react-dom": "18.2.0",
+    "react-hook-form": "^7.46.2",
+    "react-number-format": "^5.3.1",
+    "react-paginate": "^8.2.0",
+    "recharts": "^2.9.1",
+    "tailwind-merge": "^1.14.0",
+    "tailwind-variants": "^0.1.14",
+    "tailwindcss": "3.3.3",
+    "typescript": "5.2.2",
+    "zod": "^3.22.2",
+    "zustand": "^4.4.7"
+  },
+  "devDependencies": {
+    "eslint-plugin-unused-imports": "^3.0.0"
+  }
+}
